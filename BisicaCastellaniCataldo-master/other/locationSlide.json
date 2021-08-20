@@ -1,0 +1,122 @@
+[
+    {            
+        "name" : "Mountainess Resort",
+        "header" : "The Place",
+        "description" :  "Surrounded by mountains everything is more familiar and close. Everyone knows each other and the activities are designed to share everything",
+        "source" : "../assets/img/locations/mountainess_resort/slide1.jpg"
+    },
+    {
+        "name" : "Mountainess Resort",
+        "header" : "The Walk",
+        "description" : "Walking is the best therapy, especially when the scenery is breathtaking and our guides and doctors are friendly and affectionate",
+        "source":"../assets/img/locations/mountainess_resort/slide2.jpg"
+    },
+        {
+        "name" : "Mountainess Resort",
+        "header" : "The Spa",
+        "description" : "It is always possible to relax in our spa . Children can splash around and receive useful lessons",
+        "source" : "../assets/img/locations/mountainess_resort/slide3.jpg"
+    },
+    {
+        "name" : "Mountainess Resort",
+        "header" : "Children come here",
+        "description" : "It is always possible to relax in our spa . Children can splash around and receive useful lessons",
+        "source":"../assets/img/locations/mountainess_resort/slide4.jpg"
+    },
+    {
+        "name" : "Hilltop City",
+        "header" : "The Place",
+        "description" : "Let your children slip into our white relaxing structure.\n\nYou will find staff always ready to serve you for all your needs.",
+        "source": "../assets/img/locations/hilltop_city/slide1.jpg"    
+    },
+    {
+        "name" : "Hilltop City",
+        "header" : "The Food",
+        "description" : "You will try our tasty dishes, recipes you've never tried before.\n\nDiscover a whole new food culture, for the wellbeing of our patients",
+        "source" : "../assets/img/locations/hilltop_city/slide2.jpg"
+    },
+    {
+        "name" : "Hilltop City",
+        "header" : "Amusement",
+        "description" : "Children and teens can participate to our many acting and social activities",
+        "source" : "../assets/img/locations/hilltop_city/slide3.jpg"
+    },
+    {
+        "name" : "Hilltop City",
+        "header" : "Let's Move",
+        "description" : "Playgrounds are now very near to a football pitch, so children will be able to experience matches live.",
+        "source" : "../assets/img/locations/hilltop_city/slide4.jpg"
+    },
+    {
+        "name" : "The Ferret Room",
+        "header" : "The Place",
+        "description" : "In the historical center of the magnificent city, our hospital is easily reachable and welcomes patients with its incredible architectural works.",
+        "source" : "../assets/img/locations/the_ferret_room/slide1.jpg"
+    },
+    {
+        "name" : "The Ferret Room",
+        "header" : "The Cafe",
+        "description" : "The open air café allows you to fully breathe the beneficial air that only our countryside and hills can offer.",
+        "source" : "../assets/img/locations/the_ferret_room/slide2.jpg"
+    },
+    {
+        "name" : "The Ferret Room",
+        "header" : "Let's Have Fun",
+        "description" : "Ferrets love fun! We organize a lot of outdoor play around the city when the days are warm.An opportunity not to be missed",
+        "source" : "../assets/img/locations/the_ferret_room/slide3.jpg"
+    },
+    {
+        "name" : "The Ferret Room",
+        "header" : "Relax",
+        "description" : "Quieter spaces allow kids and parents alike to relax and speak with our specialists.",
+        "source" : "../assets/img/locations/the_ferret_room/slide4.jpg"
+    },
+    {
+        "name" : "Arrostiland",
+        "header" : "The Place",
+        "description" : "Our structure it's placed in one of the city biggest castle. With it's big room every patient can have a quiet place where to live.",
+        "source" : "../assets/img/locations/arrostiland/slide1.jpg"
+    },
+    {
+        "name" : "Arrostiland",
+        "header" : "The Water",
+        "description" : "The castle is also located near a spring water source with incredible magical properties",
+        "source" : "../assets/img/locations/arrostiland/slide2.jpg" 
+    },
+    {
+        "name" : "Arrostiland",
+        "header" : "Activities",
+        "description" : "Our patients will always have a moment of leisure with the most dangerous activities ever thought",
+        "source" : "../assets/img/locations/arrostiland/slide3.jpg"
+    },
+    {
+        "name" : "Arrostiland",
+        "header" : "The Food",
+        "description" : "Let's not forget our wonderful dishes based on succulent sheep! This will cheer up our little guests!",
+        "source" : "../assets/img/locations/arrostiland/slide4.jpg"
+    },
+    {
+        "name" : "The Sea Canal",
+        "header" : "The Place",
+        "description" : "The location is built on a canal very close to the sea. You can always feel the relaxing sound of the waves",
+        "source" : "../assets/img/locations/the_sea_canal/slide1.jpg"
+    },
+    {
+        "name" : "The Sea Canal",
+        "header" : "The Food",
+        "description" : "Our canteen is one of the most famous in the city. patients have plenty of choices and combinations of types of dishes to choose from",
+        "source" : "../assets/img/locations/the_sea_canal/slide2.jpg"
+    },
+    {
+        "name" : "The Sea Canal",
+        "header" : "Ships",
+        "description" :"It is always possible to relax in our spa . Children can splash around and receive useful lessons",
+        "source" : "../assets/img/locations/the_sea_canal/slide3.jpg"
+    },
+    {
+        "name" : "The Sea Canal",
+        "header" : "Great Company",
+        "description" : "Experiences outdoor allow kids to socialize and meet new friends in the lively environment of the city",
+        "source" : "../assets/img/locations/the_sea_canal/slide4.jpg"
+    }
+]
