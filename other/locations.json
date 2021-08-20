@@ -1,0 +1,67 @@
+[
+    {
+		 "name" : "Mountainess Resort",
+		 "region" : "North",
+		 "city" : "Merano",
+		 "address" : "Via G. Leopardi 17",
+		 "CAP" : "39012",
+		 "coordinates" : "46.667527,11.156346",
+		 "phone" : "327-4565345",
+		 "mail" : "mail@bcc.it",
+		 "quote" : "A thermal centre with lot of activities for young and old people.\nIn Merano no one is left behind.",
+		 "overview" : "Merano is located north of Elwynn Forest on the Eastern Kingdom's northwest coast, and is the capital city of the kingdom known as Location 1 and the largest human city of Azeroth. The city is named for the occasional sudden squalls created by a ley line pattern in the mountains around the glorious city, and is one of the last great human cities. The city itself has been rebuilt at least once, and is a marvel of human design and engineering.\nMerano is the jewel of the Alliance in Azeroth. The grandest human city left, it has weathered three wars, ransacking by the orcs, and invasions by the Alliance to take it back. Although mostly a human city, Location 1 does house dwarves, high elves, night elves, worgen, pandaren, and other Alliance races. Every night at sunset the Cathedral of Light rings a solitary bell whose sweet pitch reaches the entire city. This is for the night elves, who are unaccustomed to living within cities.\nMerano's climate is warm, the skies clear, and the seasons generally temperate. Although one might assume the climate would call for as little clothing as possible, the inhabitants of Location 1 prefer light fabric, but lots of it. Humans usually wear long-sleeved tunics, billowy trousers, leather boots, and sometimes even ridiculously large, floppy hats for excessively sunny days.",
+		 "picture" : "../assets/img/locations/mountainess_resort/"
+    },
+    {
+		 "name" : "Hilltop City",
+		 "region" : "South",
+		 "city" : "Matino",
+		 "address" : "Via Roma, 27",
+		 "CAP" : "73046",
+		 "coordinates" : "40.031282,18.133875",
+		 "phone" : "341-3345426",
+		 "mail" : "mail@bcc.it",
+		 "quote" : "A small city hides this little treasure : our first help center.\nA lot of people visit us every year",
+		 "overview" : "Matino rises in the Salento greenhouses at 75 m s.l.m. 10 km from the Ionian coast and 25 km from the extreme tip of the Salento peninsula represented by Capo di Leuca. The territory, strongly karst, is free of surface waterways but very rich in underground waterways fed by the so-called \"Vore\", natural swallows of the rainwater located in natural depressions of the ground.\nThe city dominates the valley called Taviano-Matino which is one of the most fertile areas of Salento. The predominant crops are the olive and the vine but with large areas dedicated to arable crops and greenhouse crops, especially flowers. Very frequent are farms, large companies that insist on large estates, today, except in some cases of reuse in key agritourism. The so-called caseddhi, or pajare (haystacks), typical example of rural buildings, derived from ancient building techniques of magnogreca origin, are quite widespread. Widespread the rural building of modern type as evidence of an attachment to the land of the places and a lively agritourism market.",
+		 "picture" : "../assets/img/locations/hilltop_city/"
+    },
+    {
+		 "name" : "The Ferret Room",
+		 "region" : "Center",
+		 "city" : "Perugia",
+		 "address" : "Piazza Danti 18",
+		 "CAP" : "54191",
+		 "coordinates" : "43.110717,12.390828",
+		 "phone" : "341-3345426",
+		 "mail" : "mail@bcc.it",
+		 "quote" : "The ferret is one of the most familiar animal, loved by the kids of Perugia.",
+		 "overview" : "Perugia is the capital city of both the region of Umbria in central Italy, crossed by the river Tiber, and of the province of Perugia. It holds one of our richest centre! The city is located about 164 kilometres (102 miles) north of Rome and 148 km (92 miles) southeast of Florence. It covers a high hilltop and part of the valleys around the area. The region of Umbria is bordered by Tuscany, Lazio, and Marche.\nPerugia is also a well-known cultural and artistic centre of Italy. The city hosts multiple annual festivals and events, e.g., the Eurochocolate Festival (October), the Umbria Jazz Festival (July), and the International Journalism Festival (in April), and is associated with multiple notable people in the arts.\nThe famous painter Pietro Vannucci, nicknamed Perugino, was a native of Città della Pieve, near Perugia. He decorated the local Sala del Cambio with a beautiful series of frescoes; eight of his picture can also be admired in the National Gallery of Umbria.\nThe city's symbol is the griffin, which can be seen in the form of plaques and statues on buildings around the city.",
+		 "picture" : "../assets/img/locations/the_ferret_room/"
+    },
+    {
+		 "name" : "Arrostiland",
+		 "region" : "Center",
+		 "city" : "L'Aquila",
+		 "address" : "Via de Nicoli",
+		 "CAP" : "67100",
+		 "coordinates" : "42.3503231,13.3990277",
+		 "phone" : "376-9879501",
+		 "mail" : "mail@bcc.it",
+		 "quote" : "We love food and sheep meat... But we love our patient more.",
+		 "overview" : "L'Aquila sits upon a hillside in the middle of a narrow valley; tall snow-capped mountains of the Gran Sasso massif flank the town and our centre therein. A maze of narrow streets, lined with Baroque and Renaissance buildings and churches, open onto elegant piazzas. Home to the University of L'Aquila, it is a lively college town and, as such, has many cultural institutions: a repertory theatre, a symphony orchestra, a fine-arts academy, a state conservatory, a film institute.\nThe city's construction was begun by Frederick II, Holy Roman Emperor and King of Sicily, out of several already existing villages (ninety-nine, according to local tradition; see Amiternum), as a bulwark against the power of the papacy. The name of Aquila means \"Eagle\" in Italian. Construction was completed in 1254 under Frederick's son, Conrad IV of Germany. The name was switched to Aquila degli Abruzzi in 1861, and L'Aquila in 1939. After the death of Conrad, the city was destroyed by his brother Manfred in 1259, but soon rebuilt by Charles I of Anjou, its successor as king of Sicily. The walls were completed in 1316.",
+		 "picture" : "../assets/img/locations/arrostiland/"
+  },
+    {
+		 "name" : "The Sea Canal",
+		 "region" : "North",
+		 "city" : "Venezia",
+		 "address" : "Via Canale 55",
+		 "CAP" : "95823",
+		 "coordinates" : "45.4749351,12.2257579",
+		 "phone" : "398-9867546",
+		 "mail" : "mail@bcc.it",
+		 "quote" : "We are water, we are fluid.\nWe will slip all the hackles and annoyances",
+		 "overview" : "Venezia, is the capital of the Veneto region. It is situated across a group of 118 small islands that are separated by canals and linked by bridges, of which there are 400.\nThe name is derived from the ancient Veneti people who inhabited the region by the 10th century BCE. The city was historically the capital of the Republic of Venice. Venice has been known as the La Dominante, Serenissima, Queen of the Adriatic, City of Water, City of Masks, City of Bridges, The Floating City, and City of Canals.\nThe Republic of Venice was a major financial and maritime power during the Middle Ages and Renaissance, and a staging area for the Crusades and the Battle of Lepanto, as well as a very important center of commerce (especially silk, grain, and spice) and art in the 13th century up to the end of the 17th century. The city-state of Venice is considered to have been the first real international financial center which gradually emerged from the 9th century to its peak in the 14th century. This made Venice a wealthy city throughout most of its history.",
+		 "picture" : "../assets/img/locations/the_sea_canal/"
+	 }
+]
