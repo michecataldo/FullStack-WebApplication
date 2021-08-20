@@ -40,13 +40,5 @@ Team :	polimi-hyp-2018-team-10452285
 
 	None
 	
-##	List of main problems:
-	
-	-	Basic setting of site.
-	-	Deployment of app on Heroku enviroment.
-	-	Guarantee usability and simplicity to the site.
-	- 	Insert site into modern context.
-	-	Approaching to new programming languages.
-	
 
 	
